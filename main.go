@@ -21,6 +21,4 @@ func main() {
 	fmt.Println("Year:", year)
 	fmt.Println("Pi:", pi)
 	fmt.Println("App Name:", appName)
-
-	pi = 3.14159 // Error: cannot assign to pi (constant)
 }
